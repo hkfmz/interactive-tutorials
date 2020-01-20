@@ -40,6 +40,6 @@ superreg
 
 JBoy Advance
 
-Hegel Motokoua
+<h1>Hegel Motokoua</h1>
 
 qwong95
